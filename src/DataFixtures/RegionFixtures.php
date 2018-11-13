@@ -34,6 +34,33 @@ class RegionFixtures extends Fixture
 
             ],
             'Taranaki' => [
+
+            ],
+            'Manawatu-Wanganui' => [
+
+            ],
+            'Wellington' => [
+
+            ],
+            'Tasman' => [
+
+            ],
+            'Nelson' => [
+
+            ],
+            'Marlborough' => [
+
+            ],
+            'West Coast' => [
+
+            ],
+            'Canterbury' => [
+
+            ],
+            'Otago' => [
+
+            ],
+            'Southland' => [
                 
             ]
         ];
